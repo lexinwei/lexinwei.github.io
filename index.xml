@@ -10,11 +10,11 @@
     <item>
       <title>About</title>
       <link>https://lexinwei.github.io/about/</link>
-      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      <pubDate>Sat, 17 Jul 2021 22:55:53 +0800</pubDate>
       
       <guid>https://lexinwei.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:</description>
+      <description>Hi,
+欢迎来到👏 Lexi的个人空间，在这里，我会分享一些日常bioinfo的零零碎碎的小东西🧩，希望可以被看见和使用（MIT license）。</description>
     </item>
     
     <item>
@@ -25,16 +25,6 @@ It makes use of a variety of open source projects including:</description>
       <guid>https://lexinwei.github.io/post/my-first-post/</guid>
       <description>Hello, world!
 你好，世界！</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lexinwei.github.io/post/kmer_wx%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lexinwei.github.io/post/kmer_wx%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
-      <description>K-mer Analysis Wei Xin in JiangLab, Oct, 2020
-k-mer  In bioinformatics, k-mers are subsequences of length k contained within a biological sequence.</description>
     </item>
     
   </channel>
