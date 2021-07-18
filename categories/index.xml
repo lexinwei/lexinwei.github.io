@@ -5,6 +5,16 @@
     <link>https://lexinwei.github.io/categories/</link>
     <description>Recent content in Categories on Lexi&#39;s zone</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lexinwei.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jul 2021 10:52:22 +0800</lastBuildDate><atom:link href="https://lexinwei.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Note</title>
+      <link>https://lexinwei.github.io/categories/note/</link>
+      <pubDate>Sun, 18 Jul 2021 10:52:22 +0800</pubDate>
+      
+      <guid>https://lexinwei.github.io/categories/note/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
